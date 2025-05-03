@@ -1,1 +1,327 @@
+1. Low Poly Art
+Prompt: Create an image of low-poly geometric bunny. Square Ratio.
+Prompt: Create an image of low-poly symmetrical brown bear head on solid white background. Square Ratio.
 
+2. Graffiti
+Prompt: Create an image of graffiti art of the word "YouTube" on a solid white background. Square Ratio.
+Prompt: Create an image of graffiti art of cute hip-hop cartoon hippo character on a wall. Square Ratio.
+
+3. Calligraphy
+Prompt: Create an image of artistic calligraphy for the word "Summer" in orange color, on solid white background. Square Ratio.
+Prompt: Create an image of artistic calligraphy for the word "Spring", make it beautiful, add flowers. Square Ratio.
+
+4. Typography Art
+Prompt: Create an image of creative typography-based design of the word "ROBOT", 3D render design on a purple background, sci-fi, mech, futuristic. Square Ratio.
+Prompt: Create an image of creative typography-based design of the word "Fresh" made from colorful liquid fluid on a solid white background, splash, 3D rendered, professional, clean. Square Ratio.
+
+5. Etching
+Prompt: Create an image of fine-line etched illustration of a skeleton hand holding an apple. Square Ratio.
+Prompt: Create an image of fine-line etched illustration of a pirate drinking Rum, sitting on the floor next to a Rum barrel. Square Ratio.
+
+6. Woodcut Print
+Prompt: Create an image of bold woodcut print of a gnome portrait smoking from a pipe. Square Ratio.
+Prompt: Create an image of bold woodcut print of an exotic leaf pattern, clean black and white des. Square Ratio.
+
+7. Naive Art
+Prompt: Create an image in Naive Art style of a fat cat sitting with a big full belly. A plate with a fish skeleton in front of the cat. Square Ratio.
+Prompt: Create an image in Naive Art style of a red car. Square Ratio.
+
+8. Art Nouveau
+Prompt: Create an image of an Art Nouveau style woman with floral decorations. Square Ratio.
+Prompt: Create an image of an Art Nouveau style illustration of a black deer head with red roses on solid white background. Square Ratio.
+
+9. Cubism
+Prompt: Create an image of a cubist portrait with fragmented geometric forms of a vintage business woman. Square Ratio.
+Prompt: Create an image of a cute cubist illustration with a mouse with a cook hat, fragmented geometric forms. Square Ratio.
+
+10. Ink Wash Painting
+Prompt: Create an image of an ink wash style bamboo scene with a zen temple. Square Ratio.
+Prompt: Create an image of an ink wash style mountains with red sun sunset, and a small silhouette of a warrior. Square Ratio.
+
+11. Chibi Style
+Prompt: Create an image of a chibi-style bunny holding a carrot with a big smile, on a solid pastel pink background. Square Ratio.
+Prompt: Create an image of a chibi-style girl with oversized glasses holding a cup of hot cocoa, sitting on a cloud. Square Ratio.
+
+12. Kawaii
+Prompt: Create an image of a kawaii-style smiling star with pastel colors, surrounded by tiny hearts, on a solid white background. Square Ratio.
+Prompt: Create an image of a kawaii-style smiling donut with sprinkles, with a cute face, on a solid light blue background. Square Ratio.
+
+13. Claymation
+Prompt: Create an image of a claymation-style chubby bunny character with big, expressive eyes and a carrot in its hands, on a soft green background. Square Ratio.
+Prompt: Create an image of a claymation-style teapot with intricate, hand-molded textures, surrounded by clay cups and plates, all sitting on a hand-sculpted table. Square Ratio.
+
+14.Dreamcore
+Prompt: Create a dreamcore style image of a surreal landscape with floating, distorted clocks, oversized objects, and a hazy, dreamlike atmosphere. Square Ratio.
+Prompt: Create a dreamcore style image of a dreamlike bedroom with mismatched furniture, a cracked mirror reflecting a distorted version of the room, and strange shadows cast by a floating, unlit lamp. Square Ratio.
+
+15. Normalcore
+Prompt: Create a normalcore image of a quiet suburban street with neat houses and well-kept lawns. Square Ratio.
+Prompt: Create a normalcore image of a plain office desk with a computer, papers, and a coffee mug. Square Ratio.
+
+16. Weirdcore
+Prompt: Create a weirdcore illustration of a strange ugly cat. Square Ratio.
+Prompt: Create a weirdcore photo of a cottage in the forest. Square Ratio.
+
+17. Biopunk
+Prompt: Create a biopunk photo of a city with organic buildings and glowing bioluminescent plants. Square Ratio.
+Prompt: Create a biopunk cartoon 3D render of a scientist working in a lab surrounded by glowing plants and tech. Square Ratio.
+
+18.Post-Apocalyptic
+Prompt: Create a post-apocalyptic photo of a ruined city overrun by nature with crumbling buildings. Square Ratio.
+Prompt: Create a post-apocalyptic illustration of a lone survivor standing in a destroyed urban landscape. Square Ratio.
+
+19. Mosaic
+Prompt: Create a mosaic image of a colorful bird made up of small, geometric tiles. Square Ratio.
+Prompt: Create a mosaic image of a UFO flying over a mountain. Square Ratio.
+
+20. Fluid Art
+Prompt: Create a fluid art image of swirling colors blending together, liquid paint. Square Ratio.
+Prompt: Create a fluid art image with vibrant paint flowing and mixing into organic, marbled shapes, liquid gold and emerald green. Square Ratio.
+
+21.Ferrofluid style
+Prompt: Create a ferrofluid image of a skull with metallic fluid forming sharp, spiked patterns around it. Square Ratio.
+Prompt: Create a ferrofluid image of a black rose with fluid forming magnetic spikes along its petals and stem. Square Ratio.
+
+22.Byzantine Icon
+Prompt: Create a Byzantine icon-style painting of a green alien saint with a golden halo and ornate robes. Square Ratio.
+Prompt: Create a Byzantine icon-style minimalist vector style illustration of a warrior bunny figure with a symmetrical, detailed background and gold accents. Square Ratio.
+
+23. Cyberpunk
+Prompt: Create a cyberpunk portrait photo of a woman with cybernetic enhancements, standing in a dark alley with glowing advertisements. Square Ratio.
+Prompt: Create a cyberpunk image of a futuristic flying purple car 3D render on solid white background. Square Ratio.
+
+24. Steampunk
+Prompt: Create a steampunk image of a vintage car with brass gears, pipes, and steam-powered engines. Square Ratio.
+Prompt: Create a steampunk image of a Victorian woman with a hat, adorned with gears and mechanical accessories. Square Ratio.
+
+25. Zentangle
+Prompt: Create a Zentangle pencil drawing image of a cat silhouette filled with complex, repetitive patterns. Square Ratio.
+Prompt: Create a beautiful clean Zentangle pencil drawing of a butterfly, its wings filled with detailed, flowing patterns. Square Ratio.
+
+26. Y2K Aesthetic
+Prompt: Create a Y2K aesthetic image of a retro computer with glowing buttons and digital patterns. Square Ratio.
+Prompt: Create a Y2K aesthetic portrait of a girl with holographic makeup and a futuristic, metallic hairstyle. Square Ratio.
+
+27. Doodle Art
+Prompt: Create a doodle art image of a smiling sun surrounded by clouds, stars, and hearts. Square Ratio.
+Prompt: Create a doodle art image of a smart lightbulb. Square Ratio.
+
+28. Folk Art
+Prompt: Create a folk art image of a whimsical tree with hearts and flowers painted in vibrant, bold colors. Square Ratio.
+Prompt: Create a folk art image of a village scene with hand-painted houses, animals, and flowers in warm colors. Square Ratio.
+
+29. Lofi Art
+Prompt: Create a lofi art image of a cozy room with a window showing a rainy street, a cup of tea, and a soft glow. Square Ratio.
+Prompt: Create a lofi art image of a person with headphones listening to music while drawing at their desk, with soft lighting. Square Ratio.
+
+30. Comic Book Style
+Prompt: Create a comic book-style image of a pink superhero girl flying through the city, with bold lines and action-packed colors. Square Ratio.
+Prompt: Create a comic book-style image of a battle scene between a bunny and a turtle with dynamic poses and exaggerated expressions. Square Ratio.
+
+31. Art Brut
+Prompt: Create an art brut image of a raw, unrefined portrait of a bunny with intense emotions and childlike, spontaneous lines. Square Ratio.
+Prompt: Create an art brut painting of a woman, expressive, freeform strokes. Square Ratio.
+
+32. Tachisme
+Prompt: Create a tachisme image of spontaneous brush strokes, splattered paint, and abstract color blocks in an emotional, unstructured composition. Square Ratio.
+Prompt: Create a tachisme image of a red rose, energetic canvas filled with expressive splashes of color and random brush marks. Square Ratio.
+
+33. Dadaism
+Prompt: Create a dadaism image of an absurd, chaotic collage made up of random, disconnected objects and abstract shapes. Square Ratio.
+Prompt: Create a dadaism image of a surreal scene representing love, where everyday objects are placed in unexpected, nonsensical arrangements. Square Ratio.
+
+34. Pre-Raphaelite
+Prompt: Create a pre-Raphaelite image of a young woman with flowing red hair, surrounded by lush nature and soft, detailed light. Square Ratio.
+Prompt: Create a pre-Raphaelite image of a bunny knight in a mythical scene with elaborate details, vivid colors, and an ethereal, romantic mood. Square Ratio.
+
+35. Futurist Architecture
+Prompt: Create a futurist architecture photo of sleek, angular buildings with dramatic curves and sharp edges, set against a minimalist landscape. Square Ratio.
+Prompt: Create a futurist architecture image of a city skyline with floating buildings, sharp lines, and a high-tech, sleek appearance. Square Ratio.
+
+36. Wabi-Sabi
+Prompt: Create a wabi-sabi photo of a home interior. Square Ratio.
+Prompt: Create a wabi-sabi image of a tea cup with imperfections, surrounded by natural, organic textures and muted colors. Square Ratio.
+
+37. Zettiology
+Prompt: Create a zettiology image of a highly detailed, futuristic city with intricate patterns and textures blended with organic forms. Square Ratio.
+Prompt: Create a zettiology image of a mechanical creature, blending sharp edges with flowing, natural designs, in a dark, atmospheric setting. Square Ratio.
+
+38. Fossil Art
+Prompt: Create a fossil art image of intricate, fossilized cute sea creature etched into stone, with rich textures and detailed line work. Square Ratio.
+Prompt: Create a fossil art image of a vintage phone. Square Ratio.
+
+39. Phantasmagoria
+Prompt: Create a phantasmagoria image of a ghostly figure floating through a dark, mist-filled landscape with eerie, surreal lighting. Square Ratio.
+Prompt: Create a phantasmagoria image of shifting, translucent faces emerging from an empty room, lit by flickering candles. Square Ratio.
+
+40. Mesoamerican Revival
+Prompt: Create a Mesoamerican revival image of an ancient temple adorned with vibrant murals and intricate carvings. Square Ratio.
+Prompt: Create a Mesoamerican revival image of a warrior figure with intricate armor and ceremonial garb, set in a jungle. Square Ratio.
+
+41. Xeno-Art
+Prompt: Create a xeno-art image of a home. Square Ratio.
+Prompt: Create a xeno-art image of cute bunny in an alien environment. Square Ratio.
+
+42. Neo-Primitive Art
+Prompt: Create a neo-primitive art image of a boat with simple, rough shapes and natural elements, blending modern abstraction with ancient forms. Square Ratio.
+Prompt: Create a neo-primitive art image of a figure formed from tribal lines and earthy tones, resembling a cave painting with modern influences. Square Ratio.
+
+43. Wunderkammer
+Prompt: Create a wunderkammer image of a vintage travel suitcase. Square Ratio.
+Prompt: Create a wunderkammer image of a display case filled with unusual objects such as rare artifacts, seashells, and ancient curiosities. Square Ratio.
+
+44. Cave Art
+Prompt: Create a cave art image of a prehistoric animal drawn in simple lines, set on a textured stone wall. Square Ratio.
+Prompt: Create a cave art image of a figure with primitive tools and hunting scenes, resembling ancient cave paintings. Square Ratio.
+
+45. Parallel Worlds
+Prompt: Create a parallel worlds image of two overlapping cities, one futuristic and high-tech, the other ancient and weathered, blending one city to another. Square Ratio. 
+Prompt: Create a parallel worlds image of a person standing at the center of two different realities, one bright and one dark, with different landscapes. Square Ratio.
+
+46. Organic Geometry
+Prompt: Create an organic geometry image of flowing red ketchup, organic shapes arranged in a geometric pattern, combining natural forms with structured lines. Square Ratio.
+Prompt: Create an organic geometry image of a tree with spiraling branches and leaves that form a mathematical pattern. Square Ratio.
+
+47. Hollow Art
+Prompt: Create a hollow art image of a person with a transparent body, showing the intricate gears and machinery inside. Square Ratio.
+Prompt: Create a hollow art image of a tree with its branches and roots cut out, revealing its hollow interior and intricate patterns. Square Ratio.
+
+48. Exquisite Corpse
+Prompt: Create an exquisite corpse image of a surreal figure made by combining disjointed body parts and odd elements, blending various styles. Square Ratio.
+Prompt: Create an exquisite corpse image of a creature with random, mismatched parts like a human head, animal body, and mechanical limbs. Square Ratio.
+
+49. Anachronistic Art
+Prompt: Create an anachronistic art image of a medieval knight. Square Ratio.
+Prompt: Create an anachronistic art image of a Renaissance-style portrait with the subject wearing a modern-day outfit and holding a digital device. Square Ratio.
+
+50. Vernacular Art
+Prompt: Create a vernacular art image of a vase of flowers. Square Ratio.
+Prompt: Create a vernacular art image of a bustling marketplace, filled with colorful, organic forms and a straightforward, naive perspective. Square Ratio.
+
+51. Biomorphic Art
+Prompt: Create a biomorphic art image of a cat in a dreamlike space. Square Ratio.
+Prompt: Create a biomorphic art image of a creature with fluid, curving shapes, its form blending with the surrounding environment. Square Ratio.
+
+52. Art Informel
+Prompt: Create an art informel image of a bunny. Square Ratio.
+Prompt: Create an art informel image of gorilla, chaotic paint splatters and drips, creating a freeform, emotional landscape. Square Ratio.
+
+53. Molecular Art
+Prompt: Create a molecular art image of flamingo. Square Ratio
+Prompt: Create a molecular art image of a tree of life, magical. Square Ratio.
+
+54. Chalk Art
+Prompt: Create a chalk art image of a 3D illusion of a crack in the ground, with bright, contrasting colors and a realistic shadow. Square Ratio.
+Prompt: Create a chalk art image of a cute dino chasing a cat, on a blackboard. Square Ratio.
+
+55. Gouache Painting
+Prompt: Create a gouache painting of a serene mountain landscape, with rich, layered colors and soft textures. Square Ratio.
+Prompt: Create a gouache painting of a cute, playful monkey with big, expressive eyes, sitting on a branch surrounded by soft, leafy greenery. Square Ratio.
+
+56. Renaissance Painting
+Prompt: Create a Renaissance painting of a noblewoman in an elaborate gown, with soft lighting and delicate details in the fabric and background. Square Ratio.
+Prompt: Create a Renaissance painting of an angelic figure with delicate wings, glowing in soft light amidst a dramatic, ornate landscape. Square Ratio.
+
+57. Fresco
+Prompt: Create a fresco-style image of a man sitting with a laptop inside a cave, illuminated by god rays, surrounded by rocky textures. Square Ratio.
+Prompt: Create a whimsical fresco-style image of a cat king painted on a cracked wall inside a temple. Square Ratio. 
+
+58. Stained Glass
+Prompt: Create a stained glass image of a majestic peacock with vibrant blue and green feathers, set against a sunlit backdrop. Square Ratio.
+Prompt: Create a stained glass image of a rose with intricate petals, glowing in rich shades of red and pink, framed by dark outlines. Square Ratio
+
+59. Concept Art Sketch
+Prompt: Create a concept art sketch of a warrior in battle armor, holding a glowing weapon, with simple, dynamic lines and minimal shading. Square Ratio.
+Prompt: Create a concept art sketch of a dragon. Square Ratio.
+
+60. Anime
+Prompt: Create an anime-style portrait of a catgirl with cat ears and a mischievous smile, surrounded by colorful, soft lighting. Square Ratio.
+Prompt: Create an anime image of a warrior princess with a flowing cape and a staff, standing in front of a castle under a starry sky. Square Ratio.
+
+61. Cartoon 2D & 3D
+Prompt: Create a 3D cartoon image of a chunky, round panda with exaggerated facial features, sitting on a patch of grass. Square Ratio.
+Prompt: Create a 2D cartoon image of a mischievous cat knocking over a vase, with exaggerated expressions and bold, thick outlines. Square Ratio.
+
+62. Retro Vector Art
+Prompt: Create a retro vector art image of a beach scene with a retro camper van, palm trees, and surfers, all in bright, poppy colors. Square Ratio.
+Prompt: Create a retro vector art image of a vintage radio with dial knobs, surrounded by rays of colorful soundwaves and patterns in pastel tones. Square Ratio.
+
+63. Sgraffito Art
+Prompt: Create a sgraffito art image of a bunny. Square Ratio.
+Prompt: Create a sgraffito art image of a lion’s face, with intricate fur details and facial features revealed through layers of scratched color. Square Ratio.
+
+64. Stamp Art
+Prompt: Create a stamp art image of a vintage postage stamp featuring a detailed illustration of an old-world lighthouse, with textured borders and faded colors. Square Ratio.
+Prompt: Create a travel stamp art image of a scenic beach with palm trees and a sunset, framed with decorative lines and text. Square Ratio.
+
+65. Assemblage Art
+Prompt: Create an assemblage art piece of a bird. Square Ratio.
+Prompt: Create an assemblage art piece using various small household items like buttons, coins, and fabric scraps, forming a portrait of a person. Square Ratio.
+
+66. Indian Mural Painting
+Prompt: Create an Indian mural painting of a monkey holding a satellite phone. Square Ratio.
+Prompt: Create an Indian mural painting of a floating temple with a waterfall. Square Ratio.
+
+67. Thai Mural Painting
+Prompt: Create an Thai mural painting of a toucan bird coming out from a lotus flower. Square Ratio.
+Prompt: Create an Thai mural painting of king sitting on a throne made from gold, in the jungle. Square Ratio.
+
+68. Egyptian Mural Painting
+Prompt: Create an Egyptian mural painting of a pharaoh talking to an alien. Square Ratio.
+Prompt: Create an Egyptian mural painting of a UFO building a pyramid. Square Ratio.
+
+69. Tibetan Thangka Painting
+Prompt: Create a Tibetan Thangka painting of a serene Buddha in meditation, surrounded by lotus flowers and intricate mandala patterns in the background. Square Ratio.
+Prompt: Create a Tibetan Thangka painting of a bunny with multiple arms, each holding symbolic items, and intricate gold detailing. Square Ratio.
+
+70. Sumi-e Painting
+Prompt: Create a Sumi-e painting of a lone crane standing by a tranquil pond, with delicate brush strokes and soft shading to evoke peace and elegance. Square Ratio.
+Prompt: Create a Sumi-e painting of a tiger in motion, with fluid strokes to convey power and grace, and subtle brushwork for the texture of its fur. Square Ratio.
+
+71. Ukiyo-e Style
+Prompt: Create an Ukiyo-e style image of a serene Japanese garden with koi fish swimming in a pond. Square Ratio.
+Prompt: Create an Ukiyo-e style image of a samurai bunny. Square Ratio.
+
+72. Splash Ink Painting
+Prompt: Create a splash ink painting of a tree with branches and leaves, where the ink splashes create a dynamic, fluid form of the foliage, blending with brushwork to form a harmonious scene. Square Ratio.
+Prompt: Create a splash ink painting of a wild horse galloping through the scene, with ink splashes forming the flowing mane and powerful movement. Square Ratio.
+
+73. Rorschach Inkblot Art
+Prompt: Create an abstract Rorschach inkblot image with symmetrical shapes and organic forms, leaving room for the viewer to interpret the design in their own way. Square Ratio.
+Prompt: Create a surreal Rorschach inkblot piece that evokes the shape of a fantastical creature, using symmetrical, flowing ink splatters to form organic shapes. Square Ratio.
+
+74. Etegami Painting
+Prompt: Create an Etegami painting of a sunflower, using bold, simple brushstrokes to capture its vibrant petals and large, round center, with a small handwritten message in the corner. Square Ratio.
+Prompt: Create an Etegami painting of a cat curled up in a basket, with loose, expressive brushwork capturing the warmth and comfort of the moment. Square Ratio.
+
+75. Felt tip pen drawing
+Prompt: Create a felt-tip pen drawing of a person’s face with strong, defined lines for facial features, using cross-hatching for shading and texture. Square Ratio.
+Prompt: Create a felt-tip pen drawing of a vase of flowers on a table, with clean lines for the vase and detailed shading to show reflections and light. Square Ratio.
+
+76. Flat Corporate Memphis Style
+Prompt: Create a Flat Corporate Memphis style design of a woman running. Square Ratio.
+Prompt: Create a Flat Corporate Memphis style icon set, featuring simple, geometric shapes for common office tools like a printer, coffee cup, a briefcase and smartphone, using bright colors and minimal detail. Square Ratio.
+
+77. Visionary Art
+Prompt: Create a visionary art piece of a geisha. Square Ratio.
+Prompt: Create a visionary art piece of a shamanic figure sitting in meditation, with light flowing from their body and connecting with animals, plants, and celestial energies. Square Ratio.
+
+78. Rococo Style
+Prompt: Create a Rococo-style portrait of a woman in an elaborate gown, with flowing curls, lace, and delicate floral accents, set against a soft, decorative background. Square Ratio.
+Prompt: Create a Rococo-style fashion illustration of a nobleman in a lavish powdered wig and velvet suit, surrounded by ornamental elements and floral accents. Square Ratio.
+
+79. Gothic Art
+Prompt: Create a Gothic-style portrait of a noblewoman in a dark, ornate gown, with pale skin and expressive, somber eyes, surrounded by dark, detailed background elements. Square Ratio.
+Prompt: Create a Gothic-style still life of a skull, old books, and candles, with dark shadows and dramatic lighting, creating an eerie and somber atmosphere. Square Ratio.
+
+80. Cute Vector SVG Style
+Prompt: Create a cute vector SVG illustration of a smiling cat with big eyes, soft round shapes, and pastel colors. Square Ratio.
+Prompt: Create a cute vector SVG illustration of a vintage car silhouette,  all in black on a solid white background. Square Ratio.
+
+Bonus 1. Mix of Styles: Cute 3D + Xeno-art + Biomorphic + Ferrofluid
+Prompt: Create a cute 3d render illustration of a bunny in the style of xeno-art combined with biomorphic art and ferrofluid style.
+Prompt: Create a cute 3d render illustration of a colorful car in the style of xeno-art combined with biomorphic art and ferrofluid style.
+
+Bonus 2. Mix of Styles: Vector + Mesoamerican revival + Splash Ink Painting
+Prompt: Create a clean vector illustration of a bunny in the style of Mesoamerican revival combined with Splash Ink Painting. Solid white background. Square ratio.
+Prompt: Create a clean vector illustration of a warrior owl in the style of Mesoamerican revival combined with Splash Ink Painting. Jade and gold color theme. Solid white background. Square ratio.
